@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ItemMenu</string>
+    <string name="text_nome_piatto">Piatto</string>
+    <string name="text_nome_costo">Costo</string>
+    <string name="text_nome_categoria">Primo</string>
+    <string name="text_nome_categoria2">Secondo</string>
+    <string name="text_nome_categoria3">Contorno</string>
+</resources>
